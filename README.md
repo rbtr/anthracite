@@ -1,2 +1,2 @@
 # anthracite
-A Glances AMP using mcstatus to moniter Minecraft Servers
+A Glances AMP using mcstatus to monitor Minecraft Servers
